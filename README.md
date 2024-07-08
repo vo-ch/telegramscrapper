@@ -72,4 +72,4 @@ dotnet run generate-msg-list
 
 See result in messages.csv, in same directory where TelegramScraper.exe is located
 
-## 6 step: Upload csv files to google sheets or import in Excel to view results
+## 6 step: Upload csv files to google sheets or import in Excel to view results.
